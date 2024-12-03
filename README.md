@@ -1,19 +1,22 @@
-<div align="left" style="font-family: Arial, sans-serif;">
-    <h1 style="font-size: 2.5em; color: #2c3e50; margin-bottom: 0.5em;">Hi, I'm Camilla Hollmann</h1>
-    <h3 style="font-size: 1.5em; color: #34495e; margin-bottom: 1em;">Cybersecurity Student and Developer</h3>
-
-    <h3 style="color: #2c3e50;">Connect with me:</h3>
-    <div style="display: flex; gap: 15px; flex-wrap: wrap; align-items: center;">
-        <a href="https://linkedin.com/in/camillahollmann" target="_blank" style="text-decoration: none;">
-            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40" style="border-radius: 50%; transition: transform 0.2s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
-        </a>
-        <a href="https://www.hackerrank.com/@camilla_hollmann" target="_blank" style="text-decoration: none;">
-            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" width="40" height="40" style="border-radius: 50%; transition: transform 0.2s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
-        </a>
-        <a href="https://www.leetcode.com/camilla_hollmann" target="_blank" style="text-decoration: none;">
-            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="40" height="40" style="border-radius: 50%; transition: transform 0.2s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
-        </a>
-    </div>
+<div align="left">
+<h1>Hi, I'm Camilla Hollmann</h1>
+<h3>Cybersecurity Student and Developer</h3>
+    
+<h3>Connect with me:</h3>
+<p>
+    <a href="https://linkedin.com/in/camillahollmann" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
+        alt="LinkedIn" width="40" height="40" />
+    </a>
+    <a href="https://www.hackerrank.com/camilla_hollmann" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" 
+        alt="HackerRank" width="40" height="40" />
+    </a>
+    <a href="https://www.leetcode.com/camilla_hollmann" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" 
+        alt="LeetCode" width="40" height="40" />
+    </a>
+</p>
 </div>
 
 <h3 align="left">Languages and tools</h3>
