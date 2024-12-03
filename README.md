@@ -8,7 +8,7 @@
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
         alt="LinkedIn" width="40" height="40" />
     </a>
-    <a href="https://www.hackerrank.com/camilla_hollmann" target="_blank">
+    <!-- <a href="https://www.hackerrank.com/camilla_hollmann" target="_blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" 
         alt="HackerRank" width="40" height="40" />
     </a>
@@ -17,7 +17,7 @@
         alt="LeetCode" width="40" height="40" />
     </a>
 </p>
-</div>
+</div> -->
 
 <h3 align="left">Languages and tools</h3>
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 15px;">
