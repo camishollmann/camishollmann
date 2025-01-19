@@ -2,12 +2,6 @@
 <h1>Hi, I'm Camilla Hollmann</h1>
 <h3>Cybersecurity Student and Developer</h3>
     
-<h3>Connect with me:</h3>
-<p>
-    <a href="https://linkedin.com/in/camillahollmann" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
-        alt="LinkedIn" width="40" height="40" />
-    </a>
     <!-- <a href="https://www.hackerrank.com/camilla_hollmann" target="_blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" 
         alt="HackerRank" width="40" height="40" />
