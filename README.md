@@ -4,6 +4,6 @@ Programmer and cybersecurity student.
 ― Martin Fowler
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=camishollmann&theme=maroongold)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=camishollmann&theme=maroongold) \
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camishollmann&theme=maroongold)
 
